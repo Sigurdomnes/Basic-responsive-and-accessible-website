@@ -4,6 +4,8 @@ This project is the final assignment for the university class Web Development an
 
 The website is focused on responsive design (mobile, tablet, small/large screen), accessibility, screen readers and WCAG guidelines. It was graded A.
 
+GitHub Pages: https://sigurdomnes.github.io/Responsive-and-accessible-WCAG-website/
+
 Sources:
 
 Svg-files from undraw.co (Open Source: https://undraw.co/license).
