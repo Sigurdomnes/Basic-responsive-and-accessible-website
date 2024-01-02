@@ -10,4 +10,4 @@ Sources:
 
 Svg-files from undraw.co (Open Source: https://undraw.co/license).
 
-Icones from fontawesome.com (CC-BY 4.0: https://fontawesome.com/license/free).
+Icons from fontawesome.com (CC-BY 4.0: https://fontawesome.com/license/free).
